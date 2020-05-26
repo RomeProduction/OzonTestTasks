@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzonTest", "OzonTest\OzonTest.csproj", "{2DADA807-9996-4B03-B7FE-58C68AEE1633}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D", "D", "{2A526432-5C28-4C6F-8201-8D63FC1EDF40}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskD", "TaskD\TaskD.csproj", "{EFC17946-D452-4FD8-9EBC-EA4A0F973E8F}"
 EndProject
