@@ -3,16 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzonTest", "OzonTest\OzonTest.csproj", "{2DADA807-9996-4B03-B7FE-58C68AEE1633}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D", "D", "{2A526432-5C28-4C6F-8201-8D63FC1EDF40}"
 	ProjectSection(SolutionItems) = preProject
-		ReadMe.txt = ReadMe.txt
+		ReadMeD.txt = ReadMeD.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskD", "TaskD\TaskD.csproj", "{EFC17946-D452-4FD8-9EBC-EA4A0F973E8F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskDTest", "TaskDTest\TaskDTest.csproj", "{247AC0A0-6130-4944-BD8C-7BC85A1A1327}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A", "A", "{0A42FA9B-6A17-43F3-8850-08DEC7A9BC8F}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMeA.txt = ReadMeA.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B", "B", "{C953917A-3B19-4D27-89A3-51EB1183B20A}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMeB.txt = ReadMeB.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "F", "F", "{06AC29E5-C469-4688-BAC1-5FB681A99CB4}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMeF.txt = ReadMeF.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "E", "E", "{F95F4B3B-2E61-4609-B1B9-E751325FB4C0}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMeE.txt = ReadMeE.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +38,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2DADA807-9996-4B03-B7FE-58C68AEE1633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DADA807-9996-4B03-B7FE-58C68AEE1633}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DADA807-9996-4B03-B7FE-58C68AEE1633}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DADA807-9996-4B03-B7FE-58C68AEE1633}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EFC17946-D452-4FD8-9EBC-EA4A0F973E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EFC17946-D452-4FD8-9EBC-EA4A0F973E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFC17946-D452-4FD8-9EBC-EA4A0F973E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
